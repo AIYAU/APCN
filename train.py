@@ -24,7 +24,7 @@ n_query = 20
 DEVICE = "cuda"
 n_workers = 12
 data_name = 'K8000'
-from easyfsl.datasets import CUB, EYE, OCT,K500,K7000,K8000,K700
+from easyfsl.datasets import CUB, K7000,K8000
 from easyfsl.samplers import TaskSampler
 from torch.utils.data import DataLoader
 
