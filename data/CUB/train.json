@@ -1,0 +1,12 @@
+{
+    "class_names": [
+        "201.normal",
+        "202.observation",
+        "203.surgery"
+    ],
+    "class_roots": [
+        "./data/CUB/train/201.normal",
+        "./data/CUB/train/202.observation",
+        "./data/CUB/train/203.surgery"
+    ]
+}

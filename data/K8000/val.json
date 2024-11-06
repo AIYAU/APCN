@@ -1,0 +1,16 @@
+{
+    "class_names": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4"
+    ],
+    "class_roots": [
+        "./data/K8000/images/test/0",
+        "./data/K8000/images/test/1",
+        "./data/K8000/images/test/2",
+        "./data/K8000/images/test/3",
+        "./data/K8000/images/test/4"
+    ]
+}

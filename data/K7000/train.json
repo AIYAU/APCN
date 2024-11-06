@@ -1,0 +1,38 @@
+{
+    "class_names": [
+        "AH",
+        "AION",
+        "ARMD",
+        "BRAO",
+        "BRVO",
+        "CME",
+        "CRAO",
+        "CRS",
+        "CRVO",
+        "CSR",
+        "CWS",
+        "DN",
+        "DR",
+        "EDN",
+        "ERM",
+        "HPED"
+    ],
+    "class_roots": [
+        "./data/K7000/images/AH",
+        "./data/K7000/images/AION",
+        "./data/K7000/images/ARMD",
+        "./data/K7000/images/BRAO",
+        "./data/K7000/images/BRVO",
+        "./data/K7000/images/CME",
+        "./data/K7000/images/CRAO",
+        "./data/K7000/images/CRS",
+        "./data/K7000/images/CRVO",
+        "./data/K7000/images/CSR",
+        "./data/K7000/images/CWS",
+        "./data/K7000/images/DN",
+        "./data/K7000/images/DR",
+        "./data/K7000/images/EDN",
+        "./data/K7000/images/ERM",
+        "./data/K7000/images/HPED"
+    ]
+}
